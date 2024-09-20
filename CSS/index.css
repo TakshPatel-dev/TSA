@@ -1,0 +1,26 @@
+:root{
+    
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: -10px;
+    background: linear-gradient(to right, #330c47, #39134d, #3f1954, #46205a, #4c2661, #522865, #572b6a, #5d2d6e, #642b70, #6c2972, #732674, #7b2375);}
+header{
+
+
+}
+#headerText{
+    position: absolute;
+    left: 25%;
+    bottom: 60%;
+    font-size: 89px;
+}
+.headerContainer{
+   background-image: url("/TSA/img/1.gif");
+   height: 100vh;
+   width: 100vw;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
